@@ -1,0 +1,4 @@
+Esto es el fichero2.txt
+Esta es la segunda linea
+Esta es la tercera linea
+Fin del fichero
